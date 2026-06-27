@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-VM_LINEAGE_TURTLES",
+  "name": "VM LINEAGE · PP",
+  "universe": "LOGISMÓS",
+  "moniker": "⟦VM LINEAGE · PP:vm-lineage-turtles:d7b9aa⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "d7b9aaf7c84848ea4bd77f2760a918f04f26ef94823771b0682731e014ae3e9a",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
