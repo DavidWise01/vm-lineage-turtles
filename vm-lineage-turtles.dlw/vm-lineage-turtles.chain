@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1053
+slug  : vm-lineage-turtles
+seal  : d7b9aaf7c84848ea4bd77f2760a918f04f26ef94823771b0682731e014ae3e9a
+prev  : d878602922662ff48ccc20190f02193cd18abfb0713f953e4d4454aaf03c2977
+link  : 66b3841f718fa46c8b3ae80f4fb9f9b3bcc695e0eee55b44f1bcc68dec9ba323
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
